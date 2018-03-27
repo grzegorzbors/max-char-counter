@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #e1e8de;
+}
+
+#text-field {
+    resize: none;
+    overflow: hidden;
+    margin-top: 5%;
+    box-shadow: 2px 2px 3px lightgray;
+    width: 50%;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#message {
+    text-transform: capitalize;
+    width: 50%;
+    display: inline-block;
+    color: #386bbc;
+    font-weight: 700;
+}
